@@ -1,7 +1,17 @@
 {
 "questions":[
-{"id":1, "text":"Qual o seu comportamento em retacho aos seus investimentos?","options":[]},
-{"id":2, "text":"Por duanto tempo vote deses manter os seus investimentos?","options":[]},
-{"id":3, "text":"Quantos % dentes investimentos voce pode precisar em um an?","options":[]}
+{"id":1, "text":"Qual o seu comportamento em retacho aos seus investimentos?","options":[
+  {"id":1,"text":"option1"},
+  {"id":2,"text":"option2"},
+  {"id":3,"text":"option3"}
+]},
+{"id":2, "text":"Por duanto tempo vote deses manter os seus investimentos?","options":[
+ {"id":4,"text":"option4"},
+  {"id":5,"text":"option5"},
+  {"id":6,"text":"option6"}]},
+{"id":3, "text":"Quantos % dentes investimentos voce pode precisar em um an?","options":[
+  {"id":7,"text":"option7"},
+  {"id":8,"text":"option8"}
+]}
 ]
 }
